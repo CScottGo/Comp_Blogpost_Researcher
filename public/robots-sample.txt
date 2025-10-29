@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# This is just a sample. Your site’s actual robots.txt controls what is allowed.
